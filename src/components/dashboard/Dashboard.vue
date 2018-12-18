@@ -1,6 +1,5 @@
 <template>
   <div class="dashboard">
-
     <dashboard-info-widgets></dashboard-info-widgets>
 
     <vuestic-widget class="no-padding no-v-padding">
@@ -15,7 +14,6 @@
     </vuestic-widget>
 
     <dashboard-bottom-widgets></dashboard-bottom-widgets>
-
   </div>
 </template>
 
